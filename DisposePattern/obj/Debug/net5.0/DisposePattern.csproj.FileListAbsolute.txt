@@ -1,0 +1,16 @@
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.AssemblyInfo.cs
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.exe
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.deps.json
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.runtimeconfig.json
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.runtimeconfig.dev.json
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.dll
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\ref\DisposePattern.dll
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\bin\Debug\net5.0\DisposePattern.pdb
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.dll
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\ref\DisposePattern.dll
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.pdb
+C:\Users\122589\source\repos\DisposePattern\DisposePattern\obj\Debug\net5.0\DisposePattern.genruntimeconfig.cache
